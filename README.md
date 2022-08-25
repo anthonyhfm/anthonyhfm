@@ -8,9 +8,9 @@
 <h3 align="center">A trainee Software Developer from Germany</h3>
 &nbsp;
 
-- 💬 Ask me about **Mobile, Web and Desktop development**
-
 - 🔭 I’m currently working on **my Software Development degree**
+
+- 💬 Ask me about **Mobile, Web and Desktop development**
 
 - 🌱 I’m currently learning **C++**
 
