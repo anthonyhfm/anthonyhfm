@@ -22,6 +22,12 @@
         </g>
 
         <style>
+            svg {
+                margin: 20px;
+                border-radius: 16px;
+                filter: drop-shadow(0 0 0.75rem #f0f0f0);
+            }
+
             circle.rot-circle {
                 animation: spin 5s infinite linear;
             }
