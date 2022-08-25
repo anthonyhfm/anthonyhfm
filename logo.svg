@@ -24,7 +24,6 @@
         <style>
             svg {
                 border-radius: 16px;
-
             }
 
             circle.rot-circle {
