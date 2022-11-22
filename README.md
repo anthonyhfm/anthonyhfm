@@ -16,7 +16,7 @@
 
 - 😄 Pronouns: **he/him**
 
-- 📫 How to reach me: **me@anthonyhfm.dev**
+- 📫 How to reach me: **contact@anthonyhfm.dev**
 
 - 👨‍💻 Visit my **<a href="https://anthonyhfm.dev">personal website</a>** for all of my projects
 
