@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Mobile, Web and Desktop development**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Android Development using Kotlin and Jetpack Compose**
 
 - 😄 Pronouns: **he/him**
 
