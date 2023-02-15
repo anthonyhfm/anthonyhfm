@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img src="https://github.com/anthonyhfm/anthonyhfm/raw/code/logo.svg">
+    <img src="logo.svg">
   </a>
 </div>
 
