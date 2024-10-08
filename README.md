@@ -1,19 +1,27 @@
 <div align="center">
   <a>
-    <img src="logo.svg">
+    <img src="profile.svg">
   </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A Full-Stack Software Developer and Tech Enthusiast from Germany</h3>
+
+<div align="center">
+  <a>
+    <img src="stuff.svg">
+  </a>
+</div>
+
+<h3 align="center">Software Development for Mobile, Web and Desktop</h3>
 &nbsp;
 
-- 💬 Ask me about **Mobile and Web development**
+------
 
-- 😄 Pronouns: **he/him**
+## About Me
+Hi, my name is Anthony and I'm a young Software Engineer and Tech Enthusiast from Hamburg Germany. I started coding at a very young age and later studied and graduated as a **Computer Science Specialist for Software Development**.
 
-- 📫 How to reach me: **contact@anthonyhfm.dev**
+## Contact Me
 
-- 👨‍💻 Visit my **<a href="https://anthonyhfm.dev">personal website</a>** for all of my projects
+You can contact me via e-mail: **contact@anthonyhfm.dev**
 
-- 💬 Add me on Discord: **anthonyhfm**
+You can also add me on discord: **anthonyhfm**
